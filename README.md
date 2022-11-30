@@ -1,2 +1,2 @@
 # Analise Exploratoria de Dados
-se há algumas informações sobre sobre esse acidente que podem ser mineradas. Há informações sobre mortos, sobreviventes, e demais informações a respeito dessa tragédia; e essa base pode ser utilizada para cursos introdutórios sobre mineração de dados e apresentação de algoritmos básicos.
+Trablho desenvolvido na disciplina de Tópicos em programação 1, onde por meio de uma análise exploratória de uma base de dados do Titanic, objetivo era descobrir quais as chances de um determinado grupo ter maior taxa de sobrevivência no naufrágio.
